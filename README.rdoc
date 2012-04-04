@@ -1,0 +1,3 @@
+== Metaprogramming in Ruby
+
+Some examples based on the Metaprogramming in Ruby book by Paolo Perrotta
