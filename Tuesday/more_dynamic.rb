@@ -1,6 +1,6 @@
 # more_dynamic.rb
 
-require 'data_source.rb'
+load 'data_source.rb'
 
 class Computer
   def initialize(computer_id, data_source)

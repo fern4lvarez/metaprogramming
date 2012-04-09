@@ -8,8 +8,10 @@ class MyOpenStruct
   def method_missing(name, *args)
     attribute = name.to_s
     if attribute =~ /=$/
+      # some_object.some_method = "whatever"
       @attributes[attribute.chop] = args[0]
     else
+      # some_object.some_method
       @attributes[attribute]
     end
   end

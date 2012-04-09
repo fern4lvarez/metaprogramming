@@ -1,6 +1,5 @@
 # ruport_example.rb
 
-require 'rubygems'
 require 'ruport'
 
 table = Ruport::Data::Table.new :column_names => ["country", "wine"],
@@ -12,5 +11,5 @@ puts table.to_text
 
 found = table.rows_with_country("France")
 found.each do |row|
-  puts row.to_csv
+  row.to_csv
 end
