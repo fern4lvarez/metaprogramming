@@ -21,3 +21,6 @@ end
 icecream = MyOpenStruct.new
 icecream.flavor = "vanilla"
 puts icecream.flavor
+
+icecream.color = "red"
+puts icecream.color
