@@ -24,6 +24,7 @@ class Computer
   end
 end
 
+
 my_computer = Computer.new(42, DS.new)
 puts my_computer.cpu
 puts my_computer.mouse
