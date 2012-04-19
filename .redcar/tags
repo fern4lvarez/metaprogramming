@@ -1,0 +1,99 @@
+1334851347
+Assistant	/home/fernando/Ruby/metaprogramming/Tuesday/my_delegator.rb	class Assistant
+Book	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	class Book
+C	/home/fernando/Ruby/metaprogramming/Monday/private.rb	class C
+C	/home/fernando/Ruby/metaprogramming/Monday/lookup_modules.rb	class C
+CleamRoom	/home/fernando/Ruby/metaprogramming/Wednesday/clean_room.rb	class CleamRoom
+Computer	/home/fernando/Ruby/metaprogramming/Tuesday/proxy.rb	class Computer
+Computer	/home/fernando/Ruby/metaprogramming/Tuesday/final.rb	class Computer
+Computer	/home/fernando/Ruby/metaprogramming/Tuesday/more_dynamic.rb	class Computer
+Computer	/home/fernando/Ruby/metaprogramming/Tuesday/send.rb	class Computer
+Computer	/home/fernando/Ruby/metaprogramming/Tuesday/blank.rb	class Computer
+Computer	/home/fernando/Ruby/metaprogramming/Tuesday/boring.rb	class Computer
+Computer	/home/fernando/Ruby/metaprogramming/Tuesday/dynamic.rb	class Computer
+D	/home/fernando/Ruby/metaprogramming/Monday/lookup_modules.rb	class D 
+DS	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	class DS
+Document	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	module Document
+Kernel	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	module Kernel
+Lawyer	/home/fernando/Ruby/metaprogramming/Tuesday/more_method_missing.rb	class Lawyer
+M	/home/fernando/Ruby/metaprogramming/Monday/lookup_modules.rb	module M
+Manager	/home/fernando/Ruby/metaprogramming/Tuesday/my_delegator.rb	class Manager 
+MyClass	/home/fernando/Ruby/metaprogramming/Monday/lookup.rb	class MyClass
+MyClass	/home/fernando/Ruby/metaprogramming/Monday/self.rb	class MyClass
+MyClass	/home/fernando/Ruby/metaprogramming/Tuesday/dynamic_definition.rb	class MyClass
+MyClass	/home/fernando/Ruby/metaprogramming/Tuesday/dynamic_call.rb	class MyClass
+MyClass	/home/fernando/Ruby/metaprogramming/Wednesday/flat_scope.rb	MyClass =
+MyClass	/home/fernando/Ruby/metaprogramming/Wednesday/instance_eval.rb	class MyClass 
+MyClass	/home/fernando/Ruby/metaprogramming/Wednesday/scopes.rb	class MyClass 
+MyOpenStruct	/home/fernando/Ruby/metaprogramming/Tuesday/my_ostruct.rb	class MyOpenStruct
+MySubclass	/home/fernando/Ruby/metaprogramming/Monday/lookup.rb	class MySubclass 
+Printable	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	module Printable
+Resource	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	  class Resource
+Roulette	/home/fernando/Ruby/metaprogramming/Tuesday/bug_hunt.rb	class Roulette
+String	/home/fernando/Ruby/metaprogramming/Tuesday/methods_benchmark.rb	class String
+TestUsing	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	class TestUsing 
+a_method	/home/fernando/Ruby/metaprogramming/Wednesday/basics.rb	def a_method(a, b)
+attend_meeting	/home/fernando/Ruby/metaprogramming/Tuesday/my_delegator.rb	  def attend_meeting
+check_schedule	/home/fernando/Ruby/metaprogramming/Tuesday/my_delegator.rb	  def check_schedule
+complex_calculation	/home/fernando/Ruby/metaprogramming/Wednesday/clean_room.rb	  def complex_calculation
+component	/home/fernando/Ruby/metaprogramming/Tuesday/send.rb	  def component(name)
+cpu	/home/fernando/Ruby/metaprogramming/Tuesday/send.rb	  def cpu
+cpu	/home/fernando/Ruby/metaprogramming/Tuesday/boring.rb	  def cpu
+define_component	/home/fernando/Ruby/metaprogramming/Tuesday/more_dynamic.rb	  def self.define_component(name)
+define_component	/home/fernando/Ruby/metaprogramming/Tuesday/dynamic.rb	  def self.define_component(name)
+define_methods	/home/fernando/Ruby/metaprogramming/Wednesday/shared_scope.rb	def define_methods
+dispose	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	    def dispose
+disposed?	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	    def disposed?
+do_something	/home/fernando/Ruby/metaprogramming/Wednesday/clean_room.rb	  def do_something
+format_for_screen	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	  def format_for_screen
+get_cpu_info	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_cpu_info(workstation_id) 
+get_cpu_price	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_cpu_price(workstation_id) 
+get_display_info	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_display_info(workstation_id) 
+get_display_price	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_display_price(workstation_id) 
+get_keyboard_info	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_keyboard_info(workstation_id) 
+get_keyboard_price	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_keyboard_price(workstation_id) 
+get_mouse_info	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_mouse_info(workstation_id) 
+get_mouse_price	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def get_mouse_price(workstation_id) 
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/proxy.rb	  def initialize(computer_id, data_source)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/my_delegator.rb	  def initialize(name)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/my_delegator.rb	  def initialize(assistant)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/final.rb	  def initialize(computer_id, data_source)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/more_dynamic.rb	  def initialize(computer_id, data_source)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/send.rb	  def initialize(computer_id, data_source)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/boring.rb	  def initialize(computer_id, data_source)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/dynamic.rb	  def initialize(computer_id, data_source)
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/my_ostruct.rb	  def initialize
+initialize	/home/fernando/Ruby/metaprogramming/Tuesday/data_source.rb	  def initialize 
+initialize	/home/fernando/Ruby/metaprogramming/Wednesday/instance_eval.rb	  def initialize
+keyboard	/home/fernando/Ruby/metaprogramming/Tuesday/send.rb	  def keyboard
+keyboard	/home/fernando/Ruby/metaprogramming/Tuesday/boring.rb	  def keyboard
+math	/home/fernando/Ruby/metaprogramming/Wednesday/ampersand.rb	def math(a, b)
+method_missing	/home/fernando/Ruby/metaprogramming/Tuesday/methods_benchmark.rb	  def method_missing(method, *args)
+method_missing	/home/fernando/Ruby/metaprogramming/Tuesday/proxy.rb	  def method_missing(name, *args)
+method_missing	/home/fernando/Ruby/metaprogramming/Tuesday/final.rb	  def method_missing(name, *args)
+method_missing	/home/fernando/Ruby/metaprogramming/Tuesday/my_ostruct.rb	  def method_missing(name, *args)
+method_missing	/home/fernando/Ruby/metaprogramming/Tuesday/bug_hunt.rb	  def method_missing(name, *args)
+method_missing	/home/fernando/Ruby/metaprogramming/Tuesday/more_method_missing.rb	  def method_missing(method, *args)
+mouse	/home/fernando/Ruby/metaprogramming/Tuesday/send.rb	  def mouse
+mouse	/home/fernando/Ruby/metaprogramming/Tuesday/boring.rb	  def mouse
+my_method	/home/fernando/Ruby/metaprogramming/Monday/lookup.rb	  def my_method 
+my_method	/home/fernando/Ruby/metaprogramming/Monday/self.rb	  def my_method
+my_method	/home/fernando/Ruby/metaprogramming/Monday/lookup_modules.rb	  def my_method
+my_method	/home/fernando/Ruby/metaprogramming/Tuesday/dynamic_call.rb	  def my_method(my_arg)
+my_method	/home/fernando/Ruby/metaprogramming/Wednesday/closure.rb	def my_method
+my_method	/home/fernando/Ruby/metaprogramming/Wednesday/scopes.rb	  def my_method 
+prepare_cover	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	  def prepare_cover
+print	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	  def print
+print	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	  def print
+print_to_screen	/home/fernando/Ruby/metaprogramming/Monday/tangle.rb	  def print_to_screen
+private_method	/home/fernando/Ruby/metaprogramming/Monday/private.rb	  def private_method;
+public_method	/home/fernando/Ruby/metaprogramming/Monday/private.rb	  def public_method
+read_email	/home/fernando/Ruby/metaprogramming/Tuesday/my_delegator.rb	  def read_email
+respond_to?	/home/fernando/Ruby/metaprogramming/Tuesday/proxy.rb	  def respond_to?(method)
+respond_to?	/home/fernando/Ruby/metaprogramming/Tuesday/final.rb	  def respond_to?(method)
+teach_math	/home/fernando/Ruby/metaprogramming/Wednesday/ampersand.rb	def teach_math(a, b, &operation)
+test_disposes_of_resources	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	    def test_disposes_of_resources
+test_disposes_of_resources_in_case_of_exception	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	    def test_disposes_of_resources_in_case_of_exception
+testing	/home/fernando/Ruby/metaprogramming/Monday/self.rb	  def testing
+testing_self	/home/fernando/Ruby/metaprogramming/Monday/self.rb	  def testing_self
+using	/home/fernando/Ruby/metaprogramming/Wednesday/using_test.rb	  def using(resource)
